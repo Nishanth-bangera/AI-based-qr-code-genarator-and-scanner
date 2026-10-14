@@ -1,0 +1,1 @@
+# AI-based-qr-code-genarator-and-scanner
